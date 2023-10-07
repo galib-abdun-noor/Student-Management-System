@@ -6,4 +6,4 @@
 
 https://github.com/galib-abdun-noor/Student-Management-System/assets/67048010/db31f877-7117-4c4c-afe4-fd3593984155
 
-[Std management class diagram.pdf](https://github.com/galib-abdun-noor/Student-Management-System/files/12837323/Std.management.class.diagram.pdf)
+![image](https://github.com/galib-abdun-noor/Student-Management-System/assets/67048010/4f22fade-9c92-4f04-ab25-dbfefc434b9b)
